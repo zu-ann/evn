@@ -1,4 +1,4 @@
-# Morphological parser for Evenki
+# Evenki morphological parser
 
 #### Resources:
 * Igor Nedjalkov - Evenki (Descriptive_Grammars) http://ru.b-ok.org/book/1126134/4400b7
